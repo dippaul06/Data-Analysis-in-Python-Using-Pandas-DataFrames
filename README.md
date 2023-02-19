@@ -11,4 +11,4 @@ To achieve this, we will explore the famous IMDb Movies dataset. We will start w
 
 Project URL - https://www.coursera.org/projects/data-analysis-in-python-using-pandas-dataframes
 
-Certificate of Completion - https://coursera.org/share/147c55ad83dbc84bdb16132affb254f2
+Certificate of Completion - https://www.coursera.org/account/accomplishments/certificate/CF5D9HYGNQQC
